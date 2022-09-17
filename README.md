@@ -1,6 +1,6 @@
 # NLW Esports 
 
-![preview](./.github/eduardooliveira3101.github.io_NLW-2022_%20(2).png)
+![preview](./.github/127.0.0.1_5500_index.html.png)
 
 > Explorer
 
